@@ -105,7 +105,7 @@ redirect_from:
 <p>
   <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-file-pdf"></i>
-    Download Curriculum Vitae (PDF)
+    Download Curriculum Vitae
   </a>
 </p>
 
