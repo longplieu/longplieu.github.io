@@ -101,12 +101,7 @@ author_profile: true
 }
 </style>
 
-<p>
-  <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank" rel="noopener noreferrer">
-    <i class="fas fa-file-pdf"></i>
-    Download Curriculum Vitae (PDF)
-  </a>
-</p>
+Check out my [CV (PDF)](/files/CV.pdf) for more details about my academic background, research experience, and professional activities.
 
 <h2>Academic &amp; Research Journey</h2>
 
