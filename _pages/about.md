@@ -22,62 +22,50 @@ Research Interests
 
 News & Highlights
 ======
-<style>
-.news-list {
-  margin-top: 15px;
-  margin-bottom: 20px;
-}
-
-.news-item {
-  display: grid;
-  grid-template-columns: 150px minmax(0, 1fr);
-  column-gap: 15px;
-  margin-bottom: 16px;
-  align-items: start;
-  line-height: 1.6;
-}
-
-.news-date {
-  font-weight: 600;
-  white-space: nowrap;
-}
-
-@media (max-width: 600px) {
-  .news-item {
-    grid-template-columns: 1fr;
-    row-gap: 3px;
-  }
-}
-</style>
-
-<div class="news-list">
-
-  <div class="news-item">
-    <span class="news-date">May 2026</span>
-    <span>Received the Margaret Nicholson Schafer Graduate Fellowship in Food Science at Washington State University.</span>
-  </div>
-
-  <div class="news-item">
-    <span class="news-date">January 2026</span>
-    <span>Became a member of Sigma Xi, The Scientific Research Honor Society.</span>
-  </div>
-
-  <div class="news-item">
-    <span class="news-date">August 2025</span>
-    <span>Joined the School of Food Science at Washington State University as a Graduate Research Assistant.</span>
-  </div>
-
-  <div class="news-item">
-    <span class="news-date">September 2024</span>
-    <span>Received a B.Eng. in Food Technology from Ho Chi Minh International University, Vietnam National University Ho Chi Minh City.</span>
-  </div>
-
-  <div class="news-item">
-    <span class="news-date">April 2024</span>
-    <span>Began a research internship at National Changhua University of Education, Taiwan.</span>
-  </div>
-
-</div>
+<table style="width:100%; border:none; border-collapse:collapse; font-size:1em;">
+  <tbody>
+    <tr>
+      <td style="width:155px; border:none; vertical-align:top; padding:8px 15px 8px 0; white-space:nowrap;">
+        <strong>May 2026</strong>
+      </td>
+      <td style="border:none; vertical-align:top; padding:8px 0;">
+        Received the Margaret Nicholson Schafer Graduate Fellowship in Food Science at Washington State University.
+      </td>
+    </tr>
+    <tr>
+      <td style="border:none; vertical-align:top; padding:8px 15px 8px 0; white-space:nowrap;">
+        <strong>January 2026</strong>
+      </td>
+      <td style="border:none; vertical-align:top; padding:8px 0;">
+        Became a member of Sigma Xi, The Scientific Research Honor Society.
+      </td>
+    </tr>
+    <tr>
+      <td style="border:none; vertical-align:top; padding:8px 15px 8px 0; white-space:nowrap;">
+        <strong>August 2025</strong>
+      </td>
+      <td style="border:none; vertical-align:top; padding:8px 0;">
+        Joined the School of Food Science at Washington State University as a Graduate Research Assistant.
+      </td>
+    </tr>
+    <tr>
+      <td style="border:none; vertical-align:top; padding:8px 15px 8px 0; white-space:nowrap;">
+        <strong>September 2024</strong>
+      </td>
+      <td style="border:none; vertical-align:top; padding:8px 0;">
+        Received a B.Eng. in Food Technology from Ho Chi Minh International University, Vietnam National University Ho Chi Minh City.
+      </td>
+    </tr>
+    <tr>
+      <td style="border:none; vertical-align:top; padding:8px 15px 8px 0; white-space:nowrap;">
+        <strong>April 2024</strong>
+      </td>
+      <td style="border:none; vertical-align:top; padding:8px 0;">
+        Began a research internship at National Changhua University of Education, Taiwan.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Selected Publications
 ------
