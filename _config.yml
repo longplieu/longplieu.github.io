@@ -23,9 +23,9 @@ repository               : "longplieu/longplieu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "longlieu.png"
   name             : "Long Phuoc Lieu"
-  pronouns         :  "He/him/his"  
+  pronouns         : "He/him/his"  
   bio              : "Graduate Research Assistant"
   location         : "Pullman, WA, USA"
   employer         : "Washington State University"
