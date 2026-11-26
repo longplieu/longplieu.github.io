@@ -1,7 +1,7 @@
 ---
 title: "Research"
-sitemap: true
 permalink: /research/
+author_profile: true
 ---
 
 My research integrates food science, materials science, analytical chemistry, and engineering to address challenges in food quality, safety, and sustainability. I am particularly interested in the development of functional packaging materials, chemical sensing platforms, and advanced analytical and processing technologies for sustainable food systems.
