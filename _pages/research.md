@@ -10,71 +10,44 @@ My research integrates food science, materials science, analytical chemistry, an
 <img src="/images/research-overview.png" alt="Overview of research areas" style="width:100%; border-radius:6px; margin-top:15px; margin-bottom:10px;">
 
 <p style="text-align:center; font-size:0.85em; color:#777;">
-Overview of my interdisciplinary research interests (conceptual illustration).
 </p>
 
 ---
 
 ## 1. Active and Intelligent Food Packaging
 
-My research in food packaging focuses on the development of functional and sustainable materials that protect food products, maintain quality, and extend shelf life. I am particularly interested in the integration of bio-based polymers, natural bioactive compounds, and functional nanomaterials into packaging systems with active and intelligent functionalities.
+Food packaging can do more than simply protect food. Conventional packaging primarily serves as a physical barrier, offering limited control over the biological and chemical processes that drive food deterioration. Active and intelligent packaging systems offer new opportunities to regulate these processes while providing information about product freshness. My research explores the integration of biopolymers, natural bioactive compounds, and functional nanomaterials to develop sustainable packaging systems with enhanced protective, preservative, and sensing capabilities. The broader goal is to maintain food quality, extend shelf life, and reduce postharvest losses.
 
-### Research interests
-
-- Active and intelligent food packaging systems
-- Biopolymer-based films and edible coatings
-- Cellulose nanocrystals and bacterial cellulose
-- Antimicrobial and antioxidant packaging
-- Photocatalytic materials for ethylene scavenging
-- Freshness indicators and stimuli-responsive materials
-- Agricultural by-product valorization
+<img src="/images/research-packaging.png"
+     alt="Active and intelligent food packaging"
+     style="width:100%; margin:15px 0;">
 
 ---
 
 ## 2. Chemical Sensing
 
-My research in chemical sensing explores the design and development of functional materials and optical sensing platforms for sensitive and selective molecular detection. I am particularly interested in understanding the interactions between nanomaterials, target molecules, and optical signals to improve analytical performance and enable practical applications in food safety and quality monitoring.
+The detection of chemical contaminants at trace concentrations remains a major challenge in food quality and safety assessment. Conventional analytical methods often require sophisticated instrumentation, extensive sample preparation, and time-consuming procedures, limiting their applicability to rapid and on-site analysis. Optical sensing technologies offer an alternative through the sensitive detection of molecular signatures. My research explores the design of functional nanomaterials and sensing platforms based on surface-enhanced Raman scattering (SERS) and fluorescence spectroscopy, with the goal of improving detection sensitivity, analytical reliability, and practical applicability in complex food systems.
 
-### Research interests
-
-- Surface-enhanced Raman scattering (SERS)
-- Fluorescence-based sensing
-- Plasmonic and semiconductor nanomaterials
-- Flexible and sustainable sensing substrates
-- Molecular recognition and signal enhancement
-- Trace detection of chemical and biological contaminants
-- Optical sensors for food quality and safety
-
+<img src="/images/research-sensing.png"
+     alt="SERS and fluorescence-based chemical sensing"
+     style="width:100%; margin:15px 0;">
+     
 ---
 
 ## 3. Hyperspectral Imaging
 
-My research in hyperspectral imaging focuses on the integration of spectroscopy, spatial imaging, chemometrics, and machine learning for non-destructive food characterization. I am interested in extracting meaningful chemical and physical information from high-dimensional spectral data to predict food quality attributes, visualize spatial heterogeneity, and support reliable decision-making in food processing and safety assessment.
+Food quality cannot always be adequately described by a single measurement. Conventional analytical methods often rely on destructive sampling and bulk measurements, which overlook spatial variations in the chemical composition and physical properties of food products. Hyperspectral imaging offers a different perspective by integrating spectroscopy and spatial imaging within a single analytical platform. My research combines hyperspectral imaging, chemometrics, and machine learning to quantify food quality attributes, visualize spatial heterogeneity, and develop non-destructive approaches to food characterization and process monitoring.
 
-### Research interests
-
-- Visible and near-infrared (Vis–NIR) hyperspectral imaging
-- Spectral preprocessing and feature extraction
-- Chemometrics and machine learning
-- Quantitative prediction of food quality attributes
-- Pixel-level chemical and physical mapping
-- Spatial characterization of food matrices
-- Non-destructive quality assessment
-- Real-time food quality and process monitoring
-
+<img src="/images/research-hsi.png"
+     alt="Hyperspectral imaging and spectral data analysis"
+     style="width:100%; margin:15px 0;">
+     
 ---
 
 ## 4. Food Processing and Engineering
 
-My research in food processing and engineering investigates the relationships between processing conditions, transport phenomena, and food quality. I am particularly interested in advanced drying technologies and quantitative approaches to understanding physical and chemical changes during processing, with the broader objective of improving process efficiency, product quality, and sustainability.
+The challenge in food processing extends beyond achieving the desired product characteristics to preserving quality while improving processing efficiency. Conventional drying technologies often involve prolonged processing times, substantial energy consumption, and undesirable changes in food structure, nutritional composition, and sensory properties. Advanced drying technologies offer opportunities to overcome these limitations through more effective control of heat and mass transfer. My research examines the relationships between processing conditions, moisture transport, and physicochemical changes, with an emphasis on vacuum microwave drying and the development of efficient and sustainable food processing strategies.
 
-### Research interests
-
-- Advanced food processing technologies
-- Vacuum microwave drying
-- Drying kinetics and moisture transport
-- Heat and mass transfer
-- Mathematical modeling and process optimization
-- Energy efficiency and sustainable processing
-- Physicochemical and nutritional properties of foods
-- Non-destructive process monitoring
+<img src="/images/research-processing.png"
+     alt="Advanced food processing and drying technologies"
+     style="width:100%; margin:15px 0;">
