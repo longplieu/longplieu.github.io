@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0009-0009-9239-8346"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Long-Lieu?ev=hdr_xprf"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=59462421500"
 
