@@ -50,5 +50,7 @@ Selected Publications
 
 6. **Lieu, L. P.**, Pham, T. T., Pham, T. G. A., Nguyen, D. Q., & Le, T. T. T. (2025). Photocatalytic chitosan films loaded with Ag-modified C-TiO2 nanohybrids for ethylene scavenging and prolonging the shelf life of bananas under visible light. *International Journal of Biological Macromolecules*, 330, 148031. [Link](https://doi.org/10.1016/j.ijbiomac.2025.148031).
 
+For more info
+------
 For further information about my research and academic experience, please visit my [Research](/research/), [Publications](/publications/), and [Curriculum Vitae](/cv/) pages.
 
