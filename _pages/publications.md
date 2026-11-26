@@ -11,10 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-<p class="publication-note">* Indicates corresponding author.</p>
-
 <h2>Peer-Reviewed Journal Articles</h2>
 <hr>
+
+<p class="publication-note">* Indicates corresponding author.</p>
 
 <h3 class="publication-year">2026</h3>
 
