@@ -22,15 +22,15 @@ Research Interests
 
 News & Highlights
 ======
-- **May 2026**        Received the Margaret Nicholson Schafer Graduate Fellowship in Food Science at Washington State University.
+- **May 2026**          Received the Margaret Nicholson Schafer Graduate Fellowship in Food Science at Washington State University.
 
-- **January 2026**    Became a member of Sigma Xi, The Scientific Research Honor Society.
+- **January 2026**      Became a member of Sigma Xi, The Scientific Research Honor Society.
 
-- **August 2025**     Joined the School of Food Science at Washington State University as a Graduate Research Assistant.
+- **August 2025**       Joined the School of Food Science at Washington State University as a Graduate Research Assistant.
 
-- **September 2024**  Received a B.Eng. in Food Technology from Ho Chi Minh International University, Vietnam National University Ho Chi Minh City.
+- **September 2024**    Received a B.Eng. in Food Technology from Ho Chi Minh International University, Vietnam National University Ho Chi Minh City.
 
-- **April 2024**      Began a research internship at National Changhua University of Education, Taiwan.
+- **April 2024**        Began a research internship at National Changhua University of Education, Taiwan.
 
 Selected Publications
 ------
