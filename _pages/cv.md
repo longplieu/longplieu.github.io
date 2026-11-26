@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,58 +7,247 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<style>
+.cv-timeline {
+  margin: 35px 0;
+}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+.cv-timeline-item {
+  display: grid;
+  grid-template-columns: 135px 1fr;
+  position: relative;
+}
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+.cv-timeline-date {
+  padding: 0 20px 30px 0;
+  font-size: 0.8em;
+  font-weight: 600;
+  color: #64748b;
+  text-align: right;
+}
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+.cv-timeline-content {
+  position: relative;
+  border-left: 2px solid #b8c5d1;
+  padding: 0 0 35px 25px;
+}
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+.cv-timeline-content::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  background: #527b96;
+  border-radius: 50%;
+}
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+.cv-timeline-item:last-child .cv-timeline-content {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+
+.cv-timeline-header {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 8px;
+}
+
+.cv-timeline-logo {
+  width: 55px;
+  height: 55px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.cv-timeline-school {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.cv-timeline-position {
+  font-size: 0.9em;
+  margin-bottom: 4px;
+}
+
+.cv-timeline-location {
+  color: #777;
+  font-size: 0.8em;
+}
+
+@media (max-width: 600px) {
+  .cv-timeline-item {
+    grid-template-columns: 85px 1fr;
+  }
+
+  .cv-timeline-date {
+    padding-right: 12px;
+    font-size: 0.7em;
+  }
+
+  .cv-timeline-content {
+    padding-left: 18px;
+  }
+
+  .cv-timeline-logo {
+    width: 40px;
+    height: 40px;
+  }
+
+  .cv-timeline-header {
+    gap: 10px;
+  }
+}
+</style>
+
+<p>
+  <a href="{{ site.baseurl }}/files/CV.pdf" target="_blank" rel="noopener noreferrer">
+    <i class="fas fa-file-pdf"></i>
+    Download Curriculum Vitae (PDF)
+  </a>
+</p>
+
+<h2>Academic &amp; Research Journey</h2>
+
+<div class="cv-timeline">
+
+  <!-- Washington State University -->
+
+  <div class="cv-timeline-item">
+
+    <div class="cv-timeline-date">
+      Aug 2025 – Present
+    </div>
+
+    <div class="cv-timeline-content">
+
+      <div class="cv-timeline-header">
+        <img
+          src="{{ site.baseurl }}/images/wsu.png"
+          class="cv-timeline-logo"
+          alt="Washington State University">
+
+        <div class="cv-timeline-school">
+          Washington State University
+        </div>
+      </div>
+
+      <div class="cv-timeline-position">
+        M.S. in Food Science
+      </div>
+
+      <div class="cv-timeline-position">
+        Graduate Research Assistant
+      </div>
+
+      <div class="cv-timeline-location">
+        Pullman, Washington, USA
+      </div>
+
+    </div>
+  </div>
+
+
+  <!-- National Changhua University of Education -->
+
+  <div class="cv-timeline-item">
+
+    <div class="cv-timeline-date">
+      Apr – Sep 2024
+    </div>
+
+    <div class="cv-timeline-content">
+
+      <div class="cv-timeline-header">
+        <img
+          src="{{ site.baseurl }}/images/ncue.png"
+          class="cv-timeline-logo"
+          alt="National Changhua University of Education">
+
+        <div class="cv-timeline-school">
+          National Changhua University of Education
+        </div>
+      </div>
+
+      <div class="cv-timeline-position">
+        Research Intern
+      </div>
+
+      <div class="cv-timeline-location">
+        Changhua, Taiwan
+      </div>
+
+    </div>
+  </div>
+
+
+  <!-- Ho Chi Minh City University of Technology -->
+
+  <div class="cv-timeline-item">
+
+    <div class="cv-timeline-date">
+      Sep 2022 – Jan 2025
+    </div>
+
+    <div class="cv-timeline-content">
+
+      <div class="cv-timeline-header">
+        <img
+          src="{{ site.baseurl }}/images/hcmut.png"
+          class="cv-timeline-logo"
+          alt="Ho Chi Minh City University of Technology">
+
+        <div class="cv-timeline-school">
+          Ho Chi Minh City University of Technology
+        </div>
+      </div>
+
+      <div class="cv-timeline-position">
+        Research Assistant
+      </div>
+
+      <div class="cv-timeline-location">
+        Ho Chi Minh City, Vietnam
+      </div>
+
+    </div>
+  </div>
+
+
+  <!-- International University -->
+
+  <div class="cv-timeline-item">
+
+    <div class="cv-timeline-date">
+      Sep 2024
+    </div>
+
+    <div class="cv-timeline-content">
+
+      <div class="cv-timeline-header">
+        <img
+          src="{{ site.baseurl }}/images/iu.png"
+          class="cv-timeline-logo"
+          alt="International University VNU-HCM">
+
+        <div class="cv-timeline-school">
+          International University – VNU-HCM
+        </div>
+      </div>
+
+      <div class="cv-timeline-position">
+        B.Eng. in Food Technology
+      </div>
+
+      <div class="cv-timeline-location">
+        Ho Chi Minh City, Vietnam
+      </div>
+
+    </div>
+  </div>
+
+</div>
+
+</ul>
