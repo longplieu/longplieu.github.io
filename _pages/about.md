@@ -11,46 +11,44 @@ Hi. I am a graduate research assistant and M.S. student in the School of Food Sc
 
 My research interests lie at the intersection of food science, materials science, and analytical chemistry, with a primary focus on advanced food packaging and sensing technologies. I am particularly interested in the development of functional materials, active and intelligent packaging systems, and optical sensing platforms to address challenges in food preservation, quality monitoring, safety, and sustainability.
 
-A data-driven personal website
+Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Active and intelligent food packaging:** Development of functional and sustainable packaging materials for food preservation, freshness monitoring, and shelf-life extension.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+- **Chemical sensing and hyperspectral imaging:** Development of chemical sensors and application of spectroscopic and hyperspectral imaging techniques for molecular detection, spatial characterization, and non-destructive assessment of food quality and safety.
 
-Getting started
+- **Food processing and engineering:** Investigation of advanced food processing technologies, process optimization, and their effects on food quality and physicochemical properties.
+
+News & Highlights
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **2026** — Received the Margaret Nicholson Schafer Graduate Fellowship in Food Science at Washington State University.
 
-Site-wide configuration
+- **2026** — Became a member of Sigma Xi, The Scientific Research Honor Society.
+
+- **2026** — Published a review article in the *Journal of Food Science*.
+
+- **2026** — Published a research article in *Biocatalysis and Agricultural Biotechnology*.
+
+- **August 2025** — Joined the School of Food Science at Washington State University as a Graduate Research Assistant.
+
+- **September 2024** — Received a B.Eng. in Food Technology from International University, Vietnam National University Ho Chi Minh City.
+
+- **April 2024** — Began a research internship at National Changhua University of Education, Taiwan.
+
+Selected Publications
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. **Lieu, L. P.**, & Lee, Y. (2026). Advances in vacuum microwave drying for berries: Processing, quality, and future perspectives for sustainable fruit drying. *Journal of Food Science*, 91(4). [Link](https://doi.org/10.1111/1750-3841.71066).
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+2. **Lieu, L. P.**, Le, T. T. T., Vu, H. N., Nguyen, D. Q., & Nguyen, T. L. H. (2026). O-methylation of eugenol extracted from clove essential oil enhances the quality and extends the shelf-life of cherry tomato fruit. *Biocatalysis and Agricultural Biotechnology*, 73, 104014. [Link](https://doi.org/10.1016/j.bcab.2026.104015).
 
-**Markdown generator**
+3. Pham, T. K. V., Do, H. A. T., Trinh, L. K., Luu, D. T., **Lieu, L. P.\***, & Nguyen, D. Q. (2026). Active chitosan-alginate films incorporating methyl eugenol for improved food packaging functionality and postharvest preservation performance. *Journal of Stored Products Research*, 116, 102988. [Link](https://doi.org/10.1016/j.jspr.2026.102988).
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+4. **Lieu, L. P.**, Do, H. A. T., Pham, T. K. V., Trinh, L. K., Luu, D. T., Doan, T. K., Nguyen, H. P., Tran, Q. T., Huynh, A. T., & Nguyen, D. Q. (2026). From lemongrass to cellulose nanocrystals: Synthesis, characterization, and application in postharvest quality control of cherry tomato (*Solanum lycopersicum*). *International Journal of Biological Macromolecules*, 348, 150844. [Link](https://doi.org/10.1016/j.ijbiomac.2026.150844).
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+5. **Lieu, L. P.**, Nguyen, T. T. H., Dao, D. T. P. Q., Pham, V. Y. N., Dang, V. H., Nguyen, T. H. D., & Nguyen, D. Q. (2026). Flexible bacterial cellulose membranes embedded with TiO2/Ag nanohybrids for sustainable pollutant degradation and trace detection. *Materials Science and Engineering: B*, 325, 119132. [Link](https://doi.org/10.1016/j.mseb.2025.119132).
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+6. **Lieu, L. P.**, Pham, T. T., Pham, T. G. A., Nguyen, D. Q., & Le, T. T. T. (2025). Photocatalytic chitosan films loaded with Ag-modified C-TiO2 nanohybrids for ethylene scavenging and prolonging the shelf life of bananas under visible light. *International Journal of Biological Macromolecules*, 330, 148031. [Link](https://doi.org/10.1016/j.ijbiomac.2025.148031).
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+For further information about my research and academic experience, please visit my [Research](/research/), [Publications](/publications/), and [Curriculum Vitae](/cv/) pages.
+
