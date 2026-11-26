@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
+title: "Long Phuoc Lieu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+WELCOME TO MY HOMEPAGE!
 
 Hi. I am a graduate research assistant and M.S. student in the School of Food Science at Washington State University, advised by Dr. Youngsoo Lee. I received my B.Eng. in Food Technology from International University, Vietnam National University Ho Chi Minh City.
 
