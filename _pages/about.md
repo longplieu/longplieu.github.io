@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Long Phuoc Lieu"
+title: "WELCOME TO LONG LIEU'S HOMEPAGE!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-WELCOME TO MY HOMEPAGE!
-
-Hi. I am a graduate research assistant and M.S. student in the School of Food Science at Washington State University, advised by Dr. Youngsoo Lee. I received my B.Eng. in Food Technology from International University, Vietnam National University Ho Chi Minh City.
+Hi. I am Long Phuoc Lieu. I am a graduate research assistant and M.S. student in the School of Food Science at Washington State University, advised by Dr. Youngsoo Lee. I received my B.Eng. in Food Technology from International University, Vietnam National University Ho Chi Minh City.
 
 My research interests lie at the intersection of food science, materials science, and analytical chemistry, with a primary focus on advanced food packaging and sensing technologies. I am particularly interested in the development of functional materials, active and intelligent packaging systems, and optical sensing platforms to address challenges in food preservation, quality monitoring, safety, and sustainability.
 
