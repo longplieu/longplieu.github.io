@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WELCOME TO LONG LIEU'S HOMEPAGE!"
+title: "WELCOME TO LONG P LIEU'S HOMEPAGE!"
 author_profile: true
 redirect_from: 
   - /about/
